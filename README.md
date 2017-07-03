@@ -33,3 +33,9 @@ page.open(url, function(status) {
 
 输出结果：
 Page title is 百度一下，你就知道
+
+### The fifth demo 
+005_on_console_message.js 在控制台打印源代码
+
+### The sixth demo
+006_render.js 截图
